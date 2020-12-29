@@ -1,0 +1,2 @@
+Quantum computing class - 2 (demo project)
+This project implements a quantum circuit to compute the Hamming distance between two statevectors. The algorithm diverges from classical XOR-based methods, leveraging quantum gates to compare quantum data.
